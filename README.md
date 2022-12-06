@@ -1,9 +1,9 @@
-<strong>
-- 👋 Hi, I’m MINJOON !
-- 👀 I’m Interested in Learning Programmimg !
-- 🌱 I’m Currently learning About C / C++ Language !
-- 💞️ I Don't Have any Award .... !
-- 📫 I'll Try My Best !</strong>
+<strong>- 👋 Hi, I’m MINJOON !<br>
+- 👀 I’m Interested in Learning Programmimg !<br>
+- 🌱 I’m Currently learning About C / C++ Language !<br>
+- 💞️ I Don't Have any Award .... !<br>
+- 📫 I'll Try My Best ! <br>
+</strong>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
