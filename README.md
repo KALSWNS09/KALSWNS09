@@ -9,12 +9,11 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-  <img src"https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
-  <img src"https://img.shields.io/badge/-C-000000?logo=c%2B%2B&style=flat" />
+	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=C++&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />>
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 <br>
@@ -30,7 +29,7 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-<p>COMING SOON...</p>
+	<h3>COMING SOON...</h3>
 <!--<div align=center>
 	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
