@@ -1,0 +1,5 @@
+- 👋 Hi, I’m MINJOON !
+- 👀 I’m Interested in Learning Programmimg !
+- 🌱 I’m Currently learning About C / C++ Language !
+- 💞️ I Don't Have any Award .... !
+- 📫 I'll Try My Best !
