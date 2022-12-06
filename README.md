@@ -9,7 +9,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=CPP&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -29,7 +29,6 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-	<h3>COMING SOON...</h3>
 <!--<div align=center>
 	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
